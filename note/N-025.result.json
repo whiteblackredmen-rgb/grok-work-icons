@@ -1,0 +1,70 @@
+{
+ "id": "N-025",
+ "made": "2026-11-18 10:00",
+ "slots": [
+  {
+   "slot": "thumb",
+   "after": "",
+   "want": "佐賀県の嬉野温泉。川ぞいの温泉街か、嬉野の茶畑の風景。人や看板が主役でないもの",
+   "reason": "gemini-flash-lite-latest: 嬉野温泉の川ぞいの美しい温泉街が横長で見出しに最適。",
+   "candidates": [
+    "佐賀県 佐賀 海中鳥居",
+    "佐賀県 茶畑",
+    "佐賀県 武雄の大楠",
+    "佐賀県 日本の夜明け",
+    "佐賀県 浜野浦の棚田",
+    "Ureshino Onsen Hondori 20230610 02.jpg",
+    "Ureshino Onsen Hondori 20230610 01.jpg",
+    "Ureshino-Onsen Station East 20220924.jpg",
+    "Ureshino onsen.jpg",
+    "Ureshino Onsen Hospital.jpg"
+   ],
+   "file": "publish/note/img/N-025_thumb.jpg",
+   "src": "Wikimedia Commons",
+   "page": "https://commons.wikimedia.org/wiki/File:Ureshino_onsen.jpg",
+   "author": "Totti",
+   "license": "CC BY-SA 4.0",
+   "title": "Ureshino onsen.jpg",
+   "credit": "見出し写真：Totti／Wikimedia Commons（CC BY-SA 4.0）を切り抜き、文字を入れて使用"
+  },
+  {
+   "slot": "1",
+   "after": "湯は宿の外にあって、ふつうに入れば2銭。",
+   "want": "佐賀県の嬉野温泉の町なみ（直前の段落は、1932年に嬉野の外の湯が宿の札で半値になった話）。温泉街の通りや川ぞいの宿。ほかの県の写真は不可",
+   "reason": "gemini-flash-lite-latest: 嬉野温泉の町なみや温泉街に合う写真がないため。",
+   "candidates": [
+    "佐賀県 茶畑",
+    "佐賀県 佐賀 海中鳥居",
+    "佐賀県 日本の夜明け"
+   ]
+  },
+  {
+   "slot": "2",
+   "after": "もうひとつ、泉鏡花が1926年に書いた、",
+   "want": "兵庫県の城崎温泉。川と柳と橋のある温泉街、または外湯の建物（直前の段落は、宿の客が番傘で外の湯へ出かける話）。人がいても小さく、顔が分からないもの",
+   "reason": "gemini-flash-lite-latest: 川と柳、橋のある城崎温泉街の夜景で、文章の情景に合致するため。",
+   "candidates": [
+    "兵庫県 城崎温泉(夜桜)",
+    "兵庫県 城崎温泉(冬の訪れ)",
+    "兵庫県 城崎温泉(月と雪に彩られて)",
+    "兵庫県 桜月夜の城崎温泉",
+    "兵庫県 城崎温泉の花筏",
+    "兵庫県 城崎温泉の朝焼け",
+    "兵庫県 城崎温泉夏物語-夢花火",
+    "兵庫県 城崎町　竜宮城(噴き出す雲海)",
+    "Kinosaki onsen station.jpg",
+    "Kinosaki onsen tourist information center.jpg",
+    "Street of Kinosaki Onsen near Kinosaki-Onsen Station.jpg",
+    "Kinosaki onsen Kita-yanagi street.jpg",
+    "Kinosaki-Onsen Station Sign and Limited Express \"Konotori\".jpg"
+   ],
+   "file": "publish/note/img/N-025_2.jpg",
+   "src": "FIND/47",
+   "page": "https://search.find47.jp/ja/i/Yav9u",
+   "author": "rikky_photography",
+   "license": "CC BY 4.0",
+   "title": "兵庫県 城崎温泉(冬の訪れ)",
+   "credit": "写真：rikky_photography／FIND/47（CC BY 4.0）"
+  }
+ ]
+}
