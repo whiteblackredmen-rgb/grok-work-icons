@@ -1,0 +1,90 @@
+{
+ "id": "N-030",
+ "made": "2026-11-20 01:48",
+ "slots": [
+  {
+   "slot": "thumb",
+   "after": "",
+   "want": "奈良公園の鹿（芝生や参道）。人がいても小さく、顔が分からないもの",
+   "reason": "gemini-flash-latest: 左側に文字を重ねやすく、奈良公園の鹿の風景が伝わるため。",
+   "candidates": [
+    "奈良県 奈良公園の紅葉",
+    "奈良県 奈良公園-秋景",
+    "奈良県 奈良公園-朝景",
+    "奈良県 奈良公園",
+    "奈良県 奈良公園",
+    "奈良県 奈良　奈良市　猿沢池",
+    "奈良県 “奈良”を想い出す…",
+    "奈良県 朝日を浴びる秋の鹿",
+    "Shika senbei 2017.jpg",
+    "Shikasenbei.jpg",
+    "Shika Senbei 1 (6694066527).jpg",
+    "Shika Senbei (15180042473).jpg",
+    "Kiosk to buy deer crackers or Shika-senbei (49556633032).jpg"
+   ],
+   "file": "publish/note/img/N-030_thumb.jpg",
+   "src": "FIND/47",
+   "page": "https://search.find47.jp/ja/i/To9bm",
+   "author": "中村公彦",
+   "license": "CC BY 4.0",
+   "title": "奈良県 奈良公園の紅葉",
+   "credit": "見出し写真：中村公彦／FIND/47（CC BY 4.0）を切り抜き、文字を入れて使用"
+  },
+  {
+   "slot": "1",
+   "after": "奈良公園の鹿の話のあと",
+   "want": "奈良公園の鹿（芝生や参道）。人がいても小さく、顔が分からないもの",
+   "reason": "gemini-flash-latest: 朝日の射す広々とした芝生を駆ける鹿が印象的だから。",
+   "candidates": [
+    "奈良県 奈良公園-秋景",
+    "奈良県 奈良公園-朝景",
+    "奈良県 奈良公園",
+    "奈良県 奈良公園",
+    "奈良県 奈良　奈良市　猿沢池",
+    "奈良県 “奈良”を想い出す…",
+    "奈良県 朝日を浴びる秋の鹿",
+    "奈良県 奈良町天神社",
+    "Shika senbei 2017.jpg",
+    "Shikasenbei.jpg",
+    "Shika Senbei 1 (6694066527).jpg",
+    "Shika Senbei (15180042473).jpg",
+    "Kiosk to buy deer crackers or Shika-senbei (49556633032).jpg"
+   ],
+   "file": "publish/note/img/N-030_1.jpg",
+   "src": "FIND/47",
+   "page": "https://search.find47.jp/ja/i/Lnoxe",
+   "author": "SHori",
+   "license": "CC BY 4.0",
+   "title": "奈良県 奈良公園",
+   "credit": "写真：SHori／FIND/47（CC BY 4.0）"
+  },
+  {
+   "slot": "2",
+   "after": "奈良の秋の景色の話のあと",
+   "want": "奈良公園の秋。紅葉と鹿、または参道",
+   "reason": "gemini-flash-latest: 色鮮やかな紅葉の森と鹿の姿が美しく、秋の奈良公園に最適。",
+   "candidates": [
+    "奈良県 奈良公園-秋景",
+    "奈良県 奈良公園-朝景",
+    "奈良県 奈良公園",
+    "奈良県 夏の猿沢池…",
+    "奈良県 平城宮跡の桜",
+    "奈良県 長谷寺",
+    "奈良県 奈良　奈良市　猿沢池",
+    "奈良県 “奈良”を想い出す…",
+    "Nara Park, November 2016.jpg",
+    "003 Nara deer in Japan - deer of Nara Park under autumn leaves.jpg",
+    "005 Autumn in Nara Park, Japan - Nara deer CC-BY Creative Commons Attribution.jpg",
+    "002 Nara Park autumn foliage - autumn in Japan.jpg",
+    "Autumn In Nara Park (184715447).jpeg"
+   ],
+   "file": "publish/note/img/N-030_2.jpg",
+   "src": "FIND/47",
+   "page": "https://search.find47.jp/ja/i/VhMAU",
+   "author": "SHori",
+   "license": "CC BY 4.0",
+   "title": "奈良県 奈良公園",
+   "credit": "写真：SHori／FIND/47（CC BY 4.0）"
+  }
+ ]
+}
