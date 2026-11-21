@@ -1,0 +1,90 @@
+{
+ "id": "N-032",
+ "made": "2026-11-20 01:59",
+ "slots": [
+  {
+   "slot": "thumb",
+   "after": "",
+   "want": "高野山の奥之院の参道（杉と石の灯籠・墓所）。人がいても小さく、顔が分からないもの",
+   "reason": "gemini-flash-lite-latest: 高野山奥之院の墓所や石塔が整然と並び雰囲気に合う",
+   "candidates": [
+    "和歌山県 高野山　壇上伽藍",
+    "和歌山県 くしもと大橋",
+    "和歌山県 紅葉渓庭園",
+    "和歌山県 熊野古道（和歌山）",
+    "和歌山県 和歌山      那智山  三重塔と那智の滝",
+    "和歌山県 有田みかんの山",
+    "和歌山県 橋杭岩の朝日",
+    "和歌山県 海金剛",
+    "Koyasan Okunoin Rosoku01.jpg",
+    "Koyasan Okunoin Yakult.jpg",
+    "Koyasan Okunoin Rosoku02.jpg",
+    "OKU - Graves in Okunoin Cemetery, Koyasan, Japan, 2015.jpg",
+    "OKU - Stone bridge in Okunoin Cemetery, Koyasan, Japan, 2015.jpg"
+   ],
+   "file": "publish/note/img/N-032_thumb.jpg",
+   "src": "Wikimedia Commons",
+   "page": "https://commons.wikimedia.org/wiki/File:OKU_-_Graves_in_Okunoin_Cemetery,_Koyasan,_Japan,_2015.jpg",
+   "author": "Josep M. Gracia",
+   "license": "CC BY-SA 4.0",
+   "title": "OKU - Graves in Okunoin Cemetery, Koyasan, Japan, 2015.jpg",
+   "credit": "見出し写真：Josep M. Gracia／Wikimedia Commons（CC BY-SA 4.0）を切り抜き、文字を入れて使用"
+  },
+  {
+   "slot": "1",
+   "after": "高野山の奥之院の参道の話のあと",
+   "want": "高野山の奥之院の参道（杉と石の灯籠・墓所）。人がいても小さく、顔が分からないもの",
+   "reason": "gemini-flash-lite-latest: 高野山奥之院の苔むした石橋、杉と墓所が写っているため",
+   "candidates": [
+    "和歌山県 高野山　壇上伽藍",
+    "和歌山県 くしもと大橋",
+    "和歌山県 紅葉渓庭園",
+    "和歌山県 熊野古道（和歌山）",
+    "和歌山県 和歌山      那智山  三重塔と那智の滝",
+    "和歌山県 有田みかんの山",
+    "和歌山県 橋杭岩の朝日",
+    "和歌山県 海金剛",
+    "Koyasan Okunoin Rosoku01.jpg",
+    "Koyasan Okunoin Yakult.jpg",
+    "Koyasan Okunoin Rosoku02.jpg",
+    "OKU - Stone bridge in Okunoin Cemetery, Koyasan, Japan, 2015.jpg",
+    "OKU - Modern graves at Okunoin Cemetery, Koyasan, Japan, 2015.jpg"
+   ],
+   "file": "publish/note/img/N-032_1.jpg",
+   "src": "Wikimedia Commons",
+   "page": "https://commons.wikimedia.org/wiki/File:OKU_-_Stone_bridge_in_Okunoin_Cemetery,_Koyasan,_Japan,_2015.jpg",
+   "author": "Josep M. Gracia",
+   "license": "CC BY-SA 4.0",
+   "title": "OKU - Stone bridge in Okunoin Cemetery, Koyasan, Japan, 2015.jpg",
+   "credit": "写真：Josep M. Gracia／Wikimedia Commons（CC BY-SA 4.0）"
+  },
+  {
+   "slot": "2",
+   "after": "高野山の寺の建物の話のあと",
+   "want": "高野山の壇上伽藍・根本大塔など寺の建物",
+   "reason": "gemini-flash-latest: 高野山壇上伽藍の諸堂や根本大塔が鮮明に美しく写っているため。",
+   "candidates": [
+    "和歌山県 高野山　壇上伽藍",
+    "和歌山県 くしもと大橋",
+    "和歌山県 紅葉渓庭園",
+    "和歌山県 熊野古道（和歌山）",
+    "和歌山県 和歌山      那智山  三重塔と那智の滝",
+    "和歌山県 有田みかんの山",
+    "和歌山県 橋杭岩の朝日",
+    "和歌山県 海金剛",
+    "Danjô-garan (Wakayama Kōyasan) Temple hdsr S5 tr07.jpg",
+    "Danjô-garan (Wakayama Kōyasan) Temple hdsr S5 tr02.jpg",
+    "Danjô-garan (Wakayama Kōyasan) Temple hdsr S5 tr05.jpg",
+    "Danjô-garan (Wakayama Kōyasan) Temple hdsr S5 tr11.jpg",
+    "Danjô-garan (Wakayama Kōyasan) Temple hdsr S5 sm02.jpg"
+   ],
+   "file": "publish/note/img/N-032_2.jpg",
+   "src": "FIND/47",
+   "page": "https://search.find47.jp/ja/i/XWBMC",
+   "author": "Yudai_photography",
+   "license": "CC BY 4.0",
+   "title": "和歌山県 高野山　壇上伽藍",
+   "credit": "写真：Yudai_photography／FIND/47（CC BY 4.0）"
+  }
+ ]
+}
