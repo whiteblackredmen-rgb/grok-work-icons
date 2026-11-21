@@ -1,0 +1,90 @@
+{
+ "id": "N-031",
+ "made": "2026-11-20 01:56",
+ "slots": [
+  {
+   "slot": "thumb",
+   "after": "",
+   "want": "出雲大社の境内や社殿の外観。人がいても小さく、顔が分からないもの",
+   "reason": "gemini-flash-latest: 出雲大社の拝殿外観が鮮明で、横長トリミングや文字配置に適する。",
+   "candidates": [
+    "島根県 出雲日御碕灯台",
+    "島根県 出雲神楽",
+    "島根県 稲佐の浜",
+    "島根県 国賀海岸",
+    "島根県 松江城",
+    "島根県 八重滝",
+    "島根県 宍道湖",
+    "島根県 国賀海岸（赤尾展望台）",
+    "Izumo Taisha gardens.jpg",
+    "Haiden of Izumo-taisha-1.JPG",
+    "Izumo grand shrine - panorama.jpg",
+    "Izumo Grand Shrine , Chozuya.jpg",
+    "Izumo grand shrine - forbidden zone.jpg"
+   ],
+   "file": "publish/note/img/N-031_thumb.jpg",
+   "src": "Wikimedia Commons",
+   "page": "https://commons.wikimedia.org/wiki/File:Haiden_of_Izumo-taisha-1.JPG",
+   "author": "Saigen Jiro",
+   "license": "CC0",
+   "title": "Haiden of Izumo-taisha-1.JPG",
+   "credit": "見出し写真：Saigen Jiro／Wikimedia Commons（CC0）を切り抜き、文字を入れて使用"
+  },
+  {
+   "slot": "1",
+   "after": "出雲大社の境内の話のあと",
+   "want": "出雲大社の境内や社殿の外観。人がいても小さく、顔が分からないもの",
+   "reason": "gemini-flash-latest: 出雲大社の社殿群と境内の様子が静かに捉えられているため。",
+   "candidates": [
+    "島根県 出雲日御碕灯台",
+    "島根県 出雲神楽",
+    "島根県 稲佐の浜",
+    "島根県 国賀海岸",
+    "島根県 松江城",
+    "島根県 八重滝",
+    "島根県 宍道湖",
+    "島根県 国賀海岸（赤尾展望台）",
+    "Izumo Taisha gardens.jpg",
+    "Izumo grand shrine - panorama.jpg",
+    "Izumo Grand Shrine , Chozuya.jpg",
+    "Izumo grand shrine - forbidden zone.jpg",
+    "Izumo grand shrine - Garden.jpg"
+   ],
+   "file": "publish/note/img/N-031_1.jpg",
+   "src": "Wikimedia Commons",
+   "page": "https://commons.wikimedia.org/wiki/File:Izumo_grand_shrine_-_forbidden_zone.jpg",
+   "author": "Nesnad",
+   "license": "CC BY 4.0",
+   "title": "Izumo grand shrine - forbidden zone.jpg",
+   "credit": "写真：Nesnad／Wikimedia Commons（CC BY 4.0）"
+  },
+  {
+   "slot": "2",
+   "after": "稲佐の浜の話のあと",
+   "want": "出雲の稲佐の浜（弁天島のある浜）の風景",
+   "reason": "gemini-flash-lite-latest: 出雲の稲佐の浜と弁天島が青空と美しい水面に映っているから",
+   "candidates": [
+    "島根県 稲佐の浜",
+    "島根県 出雲日御碕灯台",
+    "島根県 出雲神楽",
+    "島根県 国賀海岸",
+    "島根県 松江城",
+    "島根県 八重滝",
+    "島根県 宍道湖",
+    "島根県 国賀海岸（赤尾展望台）",
+    "Informational signboard at Inasa Beach.jpg",
+    "Inasa Beach at low tide.jpg",
+    "Inasa Beach at low tide 2.jpg",
+    "Inasa Beach at low tide with Bentenjima in the background.jpg",
+    "Inasa no hama.jpg"
+   ],
+   "file": "publish/note/img/N-031_2.jpg",
+   "src": "FIND/47",
+   "page": "https://search.find47.jp/ja/i/ax456",
+   "author": "rikky_photography",
+   "license": "CC BY 4.0",
+   "title": "島根県 稲佐の浜",
+   "credit": "写真：rikky_photography／FIND/47（CC BY 4.0）"
+  }
+ ]
+}
